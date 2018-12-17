@@ -93,13 +93,15 @@ header nav.horizontal li a:visited, header nav.horizontal li a:link {
 	color: white;
 }
 
+
+
 /* Navigation List Styles */
 
 body > header a {
    background-color: rgb(0, 0, 102);  
 }
 
-body > header:active, body > header a:hover {
+ body > header a:hover {
    background-color: rgb(0, 0, 170);
 }
 
@@ -183,7 +185,8 @@ section#right img {
 
 section#right p {
    width: 62%;
-   font-size: 15px;
+   font-size: 17px;
+   width: 450px;
 }
 /*article*/
 article p{
